@@ -1,0 +1,19 @@
+{
+    "content": [
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "pack_icon.png"
+        },
+        {
+            "path": "entities/map_marker.json"
+        },
+        {
+            "path": "scripts/Main.js"
+        },
+        {
+            "path": "scripts/Main.js.LICENSE.txt"
+        }
+    ]
+}

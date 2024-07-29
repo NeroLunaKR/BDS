@@ -1,0 +1,388 @@
+﻿## Comments can be added anywhere on a valid line by starting with '##'
+##
+## Note, trailing spaces will NOT be trimmed. If you want room between the end of the string and the start of a
+## comment on the same line, use TABs.
+
+resourcePack.editor.client.description=Risorse client dell'editor	#
+resourcePack.editor.client.name=Risorse dell'editor	#
+resourcePack.editor.server.description=Risorse server dell'editor	#
+resourcePack.editor.server.name=Risorse dell'editor	#
+
+resourcePack.editor.global.keyBinding.toggleMode=Attiva/Disattiva modalità	#
+
+resourcePack.editor.toolMode.keyBinding.console=Apri console	#
+resourcePack.editor.toolMode.keyBinding.devConsole=Apri console di sviluppo	#
+resourcePack.editor.toolMode.keyBinding.hotbar1=Seleziona barra di scelta rapida 1	#
+resourcePack.editor.toolMode.keyBinding.hotbar2=Seleziona barra di scelta rapida 2	#
+resourcePack.editor.toolMode.keyBinding.hotbar3=Seleziona barra di scelta rapida 3	#
+resourcePack.editor.toolMode.keyBinding.hotbar4=Seleziona barra di scelta rapida 4	#
+resourcePack.editor.toolMode.keyBinding.hotbar5=Seleziona barra di scelta rapida 5	#
+resourcePack.editor.toolMode.keyBinding.hotbar6=Seleziona barra di scelta rapida 6	#
+resourcePack.editor.toolMode.keyBinding.hotbar7=Seleziona barra di scelta rapida 7	#
+resourcePack.editor.toolMode.keyBinding.hotbar8=Seleziona barra di scelta rapida 8	#
+resourcePack.editor.toolMode.keyBinding.hotbar9=Seleziona barra di scelta rapida 9	#
+
+resourcePack.editor.viewport.keyBinding.moveUp=Muovi in alto	#
+resourcePack.editor.viewport.keyBinding.moveDown=Muovi in basso	#
+resourcePack.editor.viewport.keyBinding.moveLeft=Sposta a sinistra	#
+resourcePack.editor.viewport.keyBinding.moveRight=Sposta a destra	#
+resourcePack.editor.viewport.keyBinding.moveForward=Sposta avanti	#
+resourcePack.editor.viewport.keyBinding.moveBack=Sposta indietro	#
+
+resourcePack.editor.locate.title=Trova	#
+resourcePack.editor.locate.title.alt=Individua...	#
+resourcePack.editor.locate.title.biome=Bioma	#
+resourcePack.editor.locate.title.biome.alt=Bioma:	#
+resourcePack.editor.locate.biome.message=Individua bioma	#
+resourcePack.editor.locate.find.Biome=Trova bioma	#
+resourcePack.editor.locate.biomeLocation=Posizione bioma	#
+resourcePack.editor.locate.goto.biome=Vai al bioma	#
+
+resourcePack.editor.toolRail.crossModuleBrushTool.title=Pennello	#
+resourcePack.editor.toolRail.crossModuleBrushTool.description=Clicca con il pulsante sinistro del mouse o trascina per dipingere	#
+resourcePack.editor.toolRail.crossModuleBrushSettings.faceMode=Modalità viso	#
+resourcePack.editor.toolRail.crossModuleBrushSettings.brush=Pennello	#
+resourcePack.editor.toolRail.crossModuleBrushSettings.pane=Impostazioni pennello	#
+resourcePack.editor.toolRail.crossModuleBrushSettings.brushSettings=Impostazioni pennello	#
+resourcePack.editor.toolRail.crossModuleBrushSettings.extraSettings=Impostazioni extra	#
+resourcePack.editor.toolRail.crossModuleBrushSettings.fillConstraints=Riempi le demarcazioni	#
+resourcePack.editor.toolRail.crossModuleBrushSettings.mask=Maschera	#
+resourcePack.editor.toolRail.crossModuleBrushSettings.replace=Sostituisci	#
+
+resourcePack.editor.brushShape.common.settings.uniform=Uniform	#
+resourcePack.editor.brushShape.common.settings.radius=Raggio	#
+resourcePack.editor.brushShape.common.settings.length=Lunghezza	#
+resourcePack.editor.brushShape.common.settings.axis=Asse di estrusione	#
+resourcePack.editor.brushShape.common.settings.xAxis=Asse X	#
+resourcePack.editor.brushShape.common.settings.yAxis=Asse Y	#
+resourcePack.editor.brushShape.common.settings.zAxis=Asse Z	#
+resourcePack.editor.brushShape.common.settings.xAxisNeg=Asse -X	#
+resourcePack.editor.brushShape.common.settings.yAxisNeg=Asse -Y	#
+resourcePack.editor.brushShape.common.settings.zAxisNeg=Asse -Z	#
+
+resourcePack.editor.brushShape.cylinder.name=Cilindro	#
+resourcePack.editor.brushShape.cylinder.settings.width=Raggio ampiezza	#
+resourcePack.editor.brushShape.cylinder.settings.depth=Raggio profondità	#
+
+resourcePack.editor.brushShape.cone.name=Cono	#
+resourcePack.editor.brushShape.cone.settings.length=Lunghezza estrusione	#
+resourcePack.editor.brushShape.cone.settings.width=Raggio ampiezza	#
+resourcePack.editor.brushShape.cone.settings.depth=Raggio profondità	#
+
+resourcePack.editor.brushShape.cuboid.name=Cuboide	#
+resourcePack.editor.brushShape.cuboid.settings.x_length=Lunghezza X	#
+resourcePack.editor.brushShape.cuboid.settings.y_length=Lunghezza Y	#
+resourcePack.editor.brushShape.cuboid.settings.z_length=Lunghezza Z	#
+
+resourcePack.editor.brushShape.pyramid.name=Piramide	#
+resourcePack.editor.brushShape.pyramid.settings.width=Larghezza	#
+resourcePack.editor.brushShape.pyramid.settings.depth=Profondità	#
+resourcePack.editor.brushShape.pyramid.settings.height=Altezza	#
+
+resourcePack.editor.brushShape.ellipsoid.name=Ellissoide	#
+resourcePack.editor.brushShape.ellipsoid.settings.x_radius=Raggio X	#
+resourcePack.editor.brushShape.ellipsoid.settings.y_radius=Raggio Y	#
+resourcePack.editor.brushShape.ellipsoid.settings.z_radius=Raggio Z	#
+
+resourcePack.editor.toolRail.floodFillSelectionTool.title=Strumento di selezione del riempimento Flood.	#
+resourcePack.editor.toolRail.floodFillSelectionTool.description=Seleziona l'area che stai attualmente esaminando usando l'algoritmo di riempimento Flood.	#
+resourcePack.editor.playerPositionExtension.dimension=Dimensioni	#
+resourcePack.editor.playerPositionExtension.menu.player=Giocatore	#
+resourcePack.editor.playerPositionExtension.menu.showPlayerSettings=Mostra impostazioni giocatore	#
+resourcePack.editor.playerPositionExtension.nether=Nether	#
+resourcePack.editor.playerPositionExtension.overworld=Sopramondo	#
+resourcePack.editor.playerPositionExtension.pane=Impostazioni giocatore	#
+resourcePack.editor.playerPositionExtension.theEnd=End	#
+resourcePack.editor.playerPositionExtension.worldSettings=Impostazioni mondo	#
+resourcePack.editor.paste.toolRail.title=Anteprima Incolla	#
+resourcePack.editor.paste.toolRail.description=Clicca con il pulsante sinistro del mouse per selezionare un blocco e poi incollare con precisione un elemento dagli appunti	#
+resourcePack.editor.paste.pane.title=Incolla	#
+resourcePack.editor.paste.pane.submitButton=Conferma Incolla	#
+resourcePack.editor.paste.pane.transform.title=Trasforma	#
+resourcePack.editor.paste.pane.transform.origin.title=Spostamento	#
+resourcePack.editor.paste.pane.transform.rotation.title=Ruota	#
+resourcePack.editor.paste.pane.transform.rotation.none=0°	#
+resourcePack.editor.paste.pane.transform.rotation.90=90°	#
+resourcePack.editor.paste.pane.transform.rotation.180=180°	#
+resourcePack.editor.paste.pane.transform.rotation.270=270	#
+resourcePack.editor.paste.pane.transform.mirrorX=Specchio X	#
+resourcePack.editor.paste.pane.transform.mirrorZ=Specchio Z	#
+
+resourcePack.editor.core.keyBinding.showLogPanel=Mostra pannello di accesso	#
+resourcePack.editor.core.keyBinding.showGameMenu=Mostra menu di gioco	#
+
+resourcePack.editor.delete.keyBinding=Elimina contenuti selezione	#
+
+resourcePack.editor.navigation.keyBinding.add=Aggiungi posizione di navigazione	#
+resourcePack.editor.navigation.keyBinding.previous=Vai alla posizione di navigazione precedente	#
+resourcePack.editor.navigation.keyBinding.next=Vai alla posizione di navigazione successiva	#
+
+resourcePack.editor.transaction.keyBinding.undo=Annulla	#
+resourcePack.editor.transaction.keyBinding.redo=Ripeti	#
+
+resourcePack.editor.grapple.keyBinding.flyToCursor=Vola al cursore	#
+resourcePack.editor.grapple.keyBinding.flyToSelection=Vola alla selezione	#
+
+resourcePack.editor.selectionTool.deselect=Deseleziona	#
+resourcePack.editor.selectionTool.fillPane.title=Riempi selezione	#
+resourcePack.editor.selectionTool.fillPane.fillAction=Riempi selezione	#
+resourcePack.editor.selectionTool.toolRail.title=Selezione	#
+resourcePack.editor.selectionTool.toolRail.description=Clicca con il pulsante sinistro del mouse per creare una selezione; CTRL+D per deselezionare	#
+resourcePack.editor.selectionTool.selectionMode=Modalità	#
+resourcePack.editor.selectionTool.selectionMode.mouseAndKeyboard=Forma libera	#
+resourcePack.editor.selectionTool.selectionMode.fixedDistance=Distanza fissa	#
+resourcePack.editor.selectionTool.selectionMode.adjacent=Adiacente	#
+resourcePack.editor.selectionTool.settingsPane.title=Selezione	#
+resourcePack.editor.selectionTool.transformPane.title=Trasforma	#
+resourcePack.editor.selectionTool.transformPane.origin=Origine	#
+resourcePack.editor.selectionTool.transformPane.origin.tooltip=Posizione d'origine del volume di selezione espressa in coordinate del mondo.	#
+resourcePack.editor.selectionTool.transformPane.size=Dimensioni	#
+resourcePack.editor.selectionTool.projectThroughLiquid=Proietta attraverso il liquido	#
+resourcePack.editor.selectionTool.keyBinding.moveCursorForward=Sposta cursore in avanti	#
+resourcePack.editor.selectionTool.keyBinding.moveCursorBack=Sposta cursore indietro	#
+resourcePack.editor.selectionTool.keyBinding.moveCursorLeft=Sposta cursore a sinistra	#
+resourcePack.editor.selectionTool.keyBinding.moveCursorRight=Sposta cursore a destra	#
+resourcePack.editor.selectionTool.keyBinding.moveCursorUp=Sposta cursore in alto	#
+resourcePack.editor.selectionTool.keyBinding.moveCursorDown=Sposta cursore in basso	#
+resourcePack.editor.selectionTool.keyBinding.moveSelectionForward=Sposta selezione in avanti	#
+resourcePack.editor.selectionTool.keyBinding.moveSelectionBack=Sposta selezione indietro	#
+resourcePack.editor.selectionTool.keyBinding.moveSelectionLeft=Sposta selezione a sinistra	#
+resourcePack.editor.selectionTool.keyBinding.moveSelectionRight=Sposta selezione a destra	#
+resourcePack.editor.selectionTool.keyBinding.moveSelectionUp=Sposta selezione in alto	#
+resourcePack.editor.selectionTool.keyBinding.moveSelectionDown=Sposta selezione in basso	#
+resourcePack.editor.selectionTool.keyBinding.moveAllSelectionForward=Sposta intera selezione in avanti	#
+resourcePack.editor.selectionTool.keyBinding.moveAllSelectionBack=Sposta intera selezione indietro	#
+resourcePack.editor.selectionTool.keyBinding.moveAllSelectionLeft=Sposta intera selezione a sinistra	#
+resourcePack.editor.selectionTool.keyBinding.moveAllSelectionRight=Sposta intera selezione a destra	#
+resourcePack.editor.selectionTool.keyBinding.moveAllSelectionUp=Sposta intera selezione in alto	#
+resourcePack.editor.selectionTool.keyBinding.moveAllSelectionDown=Sposta intera selezione in basso	#
+resourcePack.editor.selectionTool.keyBinding.growForward=Ingrandisci selezione in avanti	#
+resourcePack.editor.selectionTool.keyBinding.growBack=Ingrandisci selezione indietro	#
+resourcePack.editor.selectionTool.keyBinding.growLeft=Ingrandisci selezione a sinistra	#
+resourcePack.editor.selectionTool.keyBinding.growRight=Ingrandisci selezione a destra	#
+resourcePack.editor.selectionTool.keyBinding.growUp=Ingrandisci selezione in alto	#
+resourcePack.editor.selectionTool.keyBinding.growDown=Ingrandisci selezione in basso	#
+resourcePack.editor.selectionTool.keyBinding.shrinkForward=Riduci selezione in avanti	#
+resourcePack.editor.selectionTool.keyBinding.shrinkBack=Riduci selezione indietro	#
+resourcePack.editor.selectionTool.keyBinding.shrinkLeft=Riduci selezione a sinistra	#
+resourcePack.editor.selectionTool.keyBinding.shrinkRight=Riduci selezione a destra	#
+resourcePack.editor.selectionTool.keyBinding.shrinkUp=Riduci selezione in alto	#
+resourcePack.editor.selectionTool.keyBinding.shrinkDown=Riduci selezione in basso	#
+resourcePack.editor.selectionTool.keyBinding.toggleTool=Attiva/disattiva strumento Selezione	#
+resourcePack.editor.selectionTool.keyBinding.fill=Riempi contenuti della selezione	#
+resourcePack.editor.selectionTool.keyBinding.deselect=Deseleziona selezione	#
+
+resourcePack.editor.actionBar.redo=Ripeti	#
+resourcePack.editor.actionBar.redo.tooltipTitle=Ripeti	#
+resourcePack.editor.actionBar.redo.tooltipDescription=Ripeti una transazione	#
+resourcePack.editor.actionBar.undo=Annulla	#
+resourcePack.editor.actionBar.undo.tooltipTitle=Annulla	#
+resourcePack.editor.actionBar.undo.tooltipDescription=Annulla una transazione	#
+
+resourcePack.editor.menuBar.file=File	#
+resourcePack.editor.menuBar.file.export=Esporta con nome	#
+resourcePack.editor.menuBar.file.export.world=Mondo giocabile	#
+resourcePack.editor.menuBar.file.export.project=Editor progetto	#
+resourcePack.editor.menuBar.file.pauseScreen=Menu di gioco	#
+resourcePack.editor.menuBar.file.settings=Impostazioni interfaccia	#
+resourcePack.editor.menuBar.file.cursor=Impostazioni cursore	#
+resourcePack.editor.menuBar.file.cursor.projectThroughLiquid=Proietta attraverso il liquido	#
+resourcePack.editor.menuBar.edit=Modifica	#
+resourcePack.editor.menuBar.edit.undo=Annulla	#
+resourcePack.editor.menuBar.edit.redo=Ripeti	#
+resourcePack.editor.menuBar.edit.deselect=Deseleziona	#
+resourcePack.editor.menuBar.edit.cut=Taglia	#
+resourcePack.editor.menuBar.edit.copy=Copia	#
+resourcePack.editor.menuBar.edit.quickPaste=Scorciatoia Incolla	#
+resourcePack.editor.menuBar.edit.quickFill=Riempimento rapido	#
+resourcePack.editor.menuBar.edit.delete=Elimina	#
+resourcePack.editor.menuBar.extensions=Estensioni	#
+resourcePack.editor.menuBar.view=Visualizza	#
+resourcePack.editor.menuBar.view.logging=Pannello di accesso	#
+resourcePack.editor.menuBar.view.navigationLogging=Accesso navigazione	#
+resourcePack.editor.menuBar.view.blockPalette=Palette blocchi	#
+resourcePack.editor.menuBar.worldOptions=Opzioni mondo	#
+resourcePack.editor.menuBar.worldOptions.pause=Pausa	#
+resourcePack.editor.menuBar.worldOptions.pause.entities=Entità	#
+resourcePack.editor.menuBar.worldOptions.changeDimension=Cambia dimensioni	#
+resourcePack.editor.menuBar.worldOptions.changeDimension.overworld=Sopramondo	#
+resourcePack.editor.menuBar.worldOptions.changeDimension.nether=Nether	#
+resourcePack.editor.menuBar.worldOptions.changeDimension.end=Fine	#
+resourcePack.editor.menuBar.experimental=Sperimentale	#
+resourcePack.editor.menuBar.locate=Trova	#
+resourcePack.editor.menuBar.parentMenu.weather=Meteo	#
+resourcePack.editor.menuBar.parentMenu.weather.clear=Sereno	#
+resourcePack.editor.menuBar.parentMenu.weather.rain=Pioggia	#
+resourcePack.editor.menuBar.parentMenu.weather.thunder=Tuono	#
+resourcePack.editor.menuBar.help=Guida	#
+resourcePack.editor.menuBar.help.quickStart=Avvio veloce	#
+resourcePack.editor.menuBar.help.documentation=Documentazione	#
+resourcePack.editor.menuBar.help.feedback=Commenti	#
+
+commands.editor.project.description=Manipola il progetto attualmente caricato	#
+commands.editor.project.unknownSubcommand=Comando secondario sconosciuto	#
+commands.editor.project.export=esportazione progetto	#
+commands.editor.project.exportComplete=Esportazione completata, file scritti in %s	#
+commands.editor.project.beginExport=Esportazione in corso...	#
+commands.editor.project.exportCopyFailed=Impossibile copiare i dati del livello %s	#
+
+## resourcePack.editor.playtestResult. is a prefix that maps directly to an enum value in the editor
+## Ensure that the spelling and case is identical to the enumeration in C++/TypeScript for
+## enum `Editor::Playtest::SessionResult`
+
+resourcePack.editor.playtestResult.OK=Riuscito	#
+resourcePack.editor.playtestResult.InvalidSessionHandle=Handle sessione non valido	#
+resourcePack.editor.playtestResult.SessionInfoNotFound=Informazioni sessione non trovate	#
+resourcePack.editor.playtestResult.TooManyPlayers=Non puoi provare un mondo quando stai ospitando altri giocatori	#
+resourcePack.editor.playtestResult.WorldExportFailed=Esportazione mondo non riuscita	#
+resourcePack.editor.playtestResult.WorldExportBusy=Esportazione mondo non disponibile	#
+resourcePack.editor.playtestResult.UnsupportedScenario=Devi ospitare il progetto dell'Editor per provare il mondo	#
+resourcePack.editor.playtestResult.EditorSystemFailure=Errore di sistema dell'Editor	#
+resourcePack.editor.playtestResult.InvalidLevelId=ID livello non valido	#
+resourcePack.editor.playtestResult.PlayerNotFound=Giocatore non trovato	#
+resourcePack.editor.playtestResult.ResponseTimeout=Timeout risposta	#
+resourcePack.editor.playtestResult.UnspecifiedError=Errore non specificato	#
+
+
+resourcePack.editor.playtest.Menu.Title=Mondo di prova	#
+resourcePack.editor.playtest.Title.Tooltip=Prova il tuo progetto dell'Editor come un mondo di Minecraft giocabile. Nessuna modifica verrà salvata nel tuo progetto. Disponibile solo quando si ospita un progetto per giocatore singolo.	#
+resourcePack.editor.playtest.Dialog.Title=Impostazioni di prova	#
+resourcePack.editor.playtest.Dialog.GameMode=Modalità di gioco	#
+resourcePack.editor.playtest.Dialog.Difficulty=Difficoltà	#
+resourcePack.editor.playtest.Dialog.DaylightCycle=Ciclo giorno/notte	#
+resourcePack.editor.playtest.Dialog.Weather=Meteo	#
+resourcePack.editor.playtest.Dialog.WeatherCycle=Meteo variabile	#
+resourcePack.editor.playtest.Dialog.ShowCoordinates=Mostra coordinate	#
+resourcePack.editor.playtest.Dialog.OverrideSpawn=Genera nella posizione attuale	#
+resourcePack.editor.playtest.Dialog.TimeOfDay=Ora del giorno	#
+resourcePack.editor.playtest.Dialog.TestButton=Mondo di prova	#
+
+resourcePack.editor.toolRail.line.title=Battuta	#
+resourcePack.editor.toolRail.line.tooltip=L'attrezzo linea crea linee di blocchi	#
+resourcePack.editor.toolRail.line.pane.width.title=Larghezza	#
+resourcePack.editor.toolRail.line.pane.selectionMode=Selezione	#
+resourcePack.editor.toolRail.line.pane.selectionMode.freeForm=Forma libera	#
+resourcePack.editor.toolRail.line.pane.selectionMode.fixedDistance=Distanza fissa	#
+resourcePack.editor.toolRail.line.pane.selectionMode.adjacent=Faccia adiacente	#
+resourcePack.editor.toolRail.line.pane.height.title=Altezza	#
+resourcePack.editor.toolRail.line.pane.algorithm.title=Algoritmo	#
+resourcePack.editor.toolRail.line.pane.algorithm.Direct=Dirigi	#
+resourcePack.editor.toolRail.line.pane.algorithm.Staggered=Sfalsato (recinzioni)	#
+resourcePack.editor.toolRail.line.pane.surfaceContour=Contorno superficie	#
+resourcePack.editor.toolRail.line.pane.fillAction=Riempi selezione	#
+resourcePack.editor.toolRail.line.keyBinding.selectAll=Seleziona tutto	#
+resourcePack.editor.toolRail.line.keyBinding.deselect=Deseleziona	#
+resourcePack.editor.toolRail.line.keyBinding.deselectAll=Deseleziona tutto	#
+resourcePack.editor.toolRail.line.keyBinding.fillAndClear=Riempi contenuti e deseleziona	#
+resourcePack.editor.toolRail.line.keyBinding.fill=Riempi contenuti	#
+resourcePack.editor.toolRail.line.keyBinding.deleteAndClear=Elimina contenuti e deseleziona	#
+resourcePack.editor.toolRail.line.keyBinding.delete=Elimina contenuti	#
+resourcePack.editor.toolRail.line.keyBinding.moveForward=Sposta elementi selezionati in avanti	#
+resourcePack.editor.toolRail.line.keyBinding.moveBack=Sposta elementi selezionati indietro	#
+resourcePack.editor.toolRail.line.keyBinding.moveLeft=Sposta elementi selezionati a sinistra	#
+resourcePack.editor.toolRail.line.keyBinding.moveRight=Sposta elementi selezionati a destra	#
+resourcePack.editor.toolRail.line.keyBinding.moveUp=Sposta elementi selezionati in alto	#
+resourcePack.editor.toolRail.line.keyBinding.moveDown=Sposta elementi selezionati in basso	#
+
+resourcePack.editor.timeOfDay.menu.title=Impostazioni ora del giorno	#
+resourcePack.editor.timeOfDay.dropDown.title=Preimpostazioni	#
+resourcePack.editor.timeOfDay.dropDown.none=Nessuno	#
+resourcePack.editor.timeOfDay.dropDown.sunrise=Alba	#
+resourcePack.editor.timeOfDay.dropDown.day=Giorno	#
+resourcePack.editor.timeOfDay.dropDown.noon=Mezzogiorno	#
+resourcePack.editor.timeOfDay.dropDown.sunset=Tramonto	#
+resourcePack.editor.timeOfDay.dropDown.night=Notte	#
+resourcePack.editor.timeOfDay.dropDown.midnight=Mezzanotte	#
+resourcePack.editor.timeOfDay.title=Impostazioni ora	#
+resourcePack.editor.timeOfDay.clockType=Tipo di orologio	#
+resourcePack.editor.timeOfDay.24hrClock=Orologio 24 h	#
+resourcePack.editor.timeOfDay.12hrClock=Orologio 12 h	#
+resourcePack.editor.timeOfDay.minecraftClock=Orologio Minecraft	#
+resourcePack.editor.timeOfDay.daylightCycle=Ciclo giorno/notte	#
+resourcePack.editor.timeOfDay.currentTime=Ora attuale	#
+resourcePack.editor.timeOfDay.customTime=Ora personalizzata	#
+
+resourcePack.editor.toolRail.blockPalette.title=Palette blocchi (CTRL+P)	#
+resourcePack.editor.toolRail.blockPalette.tooltip=Imposta una palette dei tuoi blocchi preferiti o che usi più di frequente	#
+resourcePack.editor.blockPalette.addSearchItem=Usa blocco trovato	#
+resourcePack.editor.blockPalette.title=Palette blocchi	#
+resourcePack.editor.blockPalette.paletteDropdown.title=Palette	#
+resourcePack.editor.blockPalette.blockPicker=Cerca	#
+
+resourcePack.editor.toolRail.summonTool.pane.title=Strumento di evocazione	#
+resourcePack.editor.toolRail.summonTool.pane.type=Tipo di entità	#
+resourcePack.editor.toolRail.summonTool.pane.select=Seleziona modalità	#
+resourcePack.editor.toolRail.summonTool.tool.title=Strumento di evocazione	#
+resourcePack.editor.toolRail.summonTool.tool.tip=Clicca per evocare entità	#
+resourcePack.editor.toolRail.summonTool.tool.summonSubPane=Generazione entità	#
+resourcePack.editor.toolRail.summonTool.tool.selectSubPane=Selezione entità	#
+resourcePack.editor.toolRail.summonTool.tool.selectSubPane.rotation=Rotazione	#
+resourcePack.editor.toolRail.summonTool.tool.infoText=Fai clic su un'entità per selezionarla o fai clic sulla mappa per evocarne una nuova	#
+resourcePack.editor.summonTool.summonSubPane.EntityPickerTitle=Tipo di entità	#
+resourcePack.editor.toolRail.summonTool.keyBinding.toggle=Attiva/disattiva strumento Evocazione	#
+resourcePack.editor.toolRail.summonTool.keyBinding.delete=Elimina entità	#
+resourcePack.editor.toolRail.summonTool.keyBinding.clear=Annulla selezione	#
+resourcePack.editor.toolRail.summonTool.keyBinding.moveForward=Sposta elementi selezionati in avanti	#
+resourcePack.editor.toolRail.summonTool.keyBinding.moveBack=Sposta elementi selezionati indietro	#
+resourcePack.editor.toolRail.summonTool.keyBinding.moveLeft=Sposta elementi selezionati a sinistra	#
+resourcePack.editor.toolRail.summonTool.keyBinding.moveRight=Sposta elementi selezionati a destra	#
+resourcePack.editor.toolRail.summonTool.keyBinding.moveUp=Sposta elementi selezionati in alto	#
+resourcePack.editor.toolRail.summonTool.keyBinding.moveDown=Sposta elementi selezionati in basso	#
+
+resourcePack.editor.pastepreview.tool.title=Anteprima Incolla	#
+resourcePack.editor.pastepreview.tool.tip=Usa il mouse per regolare la posizione dell'anteprima degli appunti, quindi fai clic per incollare nel mondo	#
+resourcePack.editor.pastepreview.pane.root.title=Anteprima Incolla	#
+resourcePack.editor.pastepreview.pane.root.size=Dimensioni	#
+resourcePack.editor.pastepreview.pane.placement.title=Impostazioni posizionamento	#
+resourcePack.editor.pastepreview.pane.placement.origin=Origine	#
+resourcePack.editor.pastepreview.pane.placement.offset=Spostamento dall’oggetto	#
+resourcePack.editor.pastepreview.pane.placement.rotation=Rotazione (intorno a Y)	#
+resourcePack.editor.pastepreview.pane.placement.mirrorX=Specchio X	#
+resourcePack.editor.pastepreview.pane.placement.mirrorZ=Specchio Z	#
+resourcePack.editor.pastepreview.pane.placement.pastebutton=Incolla	#
+resourcePack.editor.pastepreview.pane.controls.title=Comandi cursore	#
+resourcePack.editor.pastepreview.pane.controls.cursor=Control	#
+resourcePack.editor.pastepreview.pane.controls.cursor.keyboard=Solo tasti	#
+resourcePack.editor.pastepreview.pane.controls.cursor.mouseandkeys=Mouse e tasti	#
+resourcePack.editor.pastepreview.pane.controls.cursor.fixed=Distanza fissa	#
+resourcePack.editor.pastepreview.pane.controls.cursor.target.title=Bersaglio	#
+resourcePack.editor.pastepreview.pane.controls.cursor.target.block=Blocco	#
+resourcePack.editor.pastepreview.pane.controls.cursor.target.face=Adiacente	#
+resourcePack.editor.pastepreview.keyBinding.copy=Copia selezione	#
+resourcePack.editor.pastepreview.keyBinding.cut=Taglia selezione	#
+resourcePack.editor.pastepreview.keyBinding.quickPaste=Scorciatoia Incolla	#
+resourcePack.editor.pastepreview.keyBinding.paste=Incolla	#
+resourcePack.editor.pastepreview.keyBinding.clearPreview=Annulla anteprima	#
+resourcePack.editor.pastepreview.keyBinding.moveForward=Sposta anteprima in avanti	#
+resourcePack.editor.pastepreview.keyBinding.moveBack=Sposta anteprima indietro	#
+resourcePack.editor.pastepreview.keyBinding.moveLeft=Sposta anteprima a sinistra	#
+resourcePack.editor.pastepreview.keyBinding.moveRight=Sposta anteprima a destra	#
+resourcePack.editor.pastepreview.keyBinding.moveUp=Sposta anteprima in alto	#
+resourcePack.editor.pastepreview.keyBinding.moveDown=Sposta anteprima in basso	#
+resourcePack.editor.pastepreview.keyBinding.moveOffsetForward=Sposta slittamento in avanti	#
+resourcePack.editor.pastepreview.keyBinding.moveOffsetBack=Sposta slittamento indietro	#
+resourcePack.editor.pastepreview.keyBinding.moveOffsetLeft=Sposta slittamento a sinistra	#
+resourcePack.editor.pastepreview.keyBinding.moveOffsetRight=Sposta slittamento a destra	#
+resourcePack.editor.pastepreview.keyBinding.moveOffsetUp=Sposta slittamento in alto	#
+resourcePack.editor.pastepreview.keyBinding.moveOffsetDown=Sposta slittamento in basso	#
+resourcePack.editor.pastepreview.keyBinding.moveOriginForward=Sposta origine in avanti	#
+resourcePack.editor.pastepreview.keyBinding.moveOriginBack=Sposta origine indietro	#
+resourcePack.editor.pastepreview.keyBinding.moveOriginLeft=Sposta origine a sinistra	#
+resourcePack.editor.pastepreview.keyBinding.moveOriginRight=Sposta origine a destra	#
+resourcePack.editor.pastepreview.keyBinding.moveOriginUp=Sposta origine in alto	#
+resourcePack.editor.pastepreview.keyBinding.moveOriginDown=Sposta origine in basso	#
+resourcePack.editor.pastepreview.keyBinding.pasteAtCursor=Incolla sul cursore	#
+resourcePack.editor.pastepreview.keyBinding.toggleBlockTarget=Attiva/disattiva modalità Blocca bersaglio	#
+resourcePack.editor.pastepreview.keyBinding.toggleAdjacentTarget=Attiva/disattiva modalità Bersaglio adiacente	#
+resourcePack.editor.pastepreview.keyBinding.rotateClockWise=Ruota anteprima in senso orario	#
+resourcePack.editor.pastepreview.keyBinding.rotateCounterClockWise=Ruota anteprima in senso antiorario	#
+resourcePack.editor.pastepreview.keyBinding.toggleMirrorX=Attiva/disattiva Specchio X	#
+resourcePack.editor.pastepreview.keyBinding.toggleMirrorZ=Attiva/disattiva Specchio Z	#
+resourcePack.editor.pastepreview.keyBinding.toggleMouseTracking=Abilita tracciamento mouse	#
+resourcePack.editor.pastepreview.keyBinding.toggleFixedDistance=Abilita distanza fissa	#
+
+resourcePack.editor.deferredLightingSettings.menu.title=Impostazioni illuminazione differita	#
+resourcePack.editor.datatransferaccessors.atmospheric_scattering=Dispersione atmosferica	#
+resourcePack.editor.datatransferaccessors.color_grading=Gradazione colori	#
+resourcePack.editor.datatransferaccessors.lighting_group=Illuminazione globale	#
+
